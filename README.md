@@ -1,2 +1,5 @@
-# gender_classification
-This project cannot be run in the repository because the trainnig datasets is too large to upload onto github.
+# voice_classification
+Contains codes for a neural network which classifies the user's physical gender based on audio.
+
+Audio processing: MFCC
+Machine Learning Framework: tensorflow
